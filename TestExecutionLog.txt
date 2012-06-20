@@ -12,7 +12,7 @@ Executing : [1333621523311, get {"url":"http://store.apple.com/us/browse/home/sh
 
 Thu Apr 05 17:21:12 IST 2012
 
-Executing : [1333621523311, getCurrentUrl {}]
+Executing : [1333621523311, getCurrentUrl {}]drt
 
 Thu Apr 05 17:21:23 IST 2012
 
