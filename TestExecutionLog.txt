@@ -32,7 +32,7 @@ Executing : [1333621523311, executeScript {"script":"javascript:(window.open(\"\
 
 Thu Apr 05 17:21:26 IST 2012
 
-Executing : [1333621523311, getWindowHandles {}]
+Executing : [1333621523311, getWindowHandles {}]ewrrerwr
 
 Thu Apr 05 17:21:26 IST 2012
 
