@@ -27,7 +27,7 @@ public class GoogleAnalytics extends BaseTest {
 		//SauceConnect sc;
 		//System.out.println(SauceConnect.restURL());
 		
-		sup.setTestName("GADemoScript1");//TODO Change here for testing
+		sup.setTestName("GADemoScript1");//TODO Change here for testing agquin
 		startUp("003");//TODO Change here
 		sup.setTestCaseID(this.getTestCaseId("03", 
 				sup.getTestName(), 
